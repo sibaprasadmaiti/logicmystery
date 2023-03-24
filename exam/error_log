@@ -1,0 +1,8 @@
+[15-Dec-2015 04:43:16 Etc/GMT] PHP Notice:  Use of undefined constant DB_SERVER - assumed 'DB_SERVER' in /home/logicmystery/public_html/exam/init.php on line 20
+[15-Dec-2015 04:43:16 Etc/GMT] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/logicmystery/public_html/exam/init.php on line 20
+[15-Dec-2015 04:43:16 Etc/GMT] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/logicmystery/public_html/exam/init.php on line 20
+[15-Dec-2015 04:43:16 Etc/GMT] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/logicmystery/public_html/exam/init.php on line 20
+[15-Dec-2015 04:43:16 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_SERVER' (2) in /home/logicmystery/public_html/exam/lib/class_db.php on line 80
+[15-Dec-2015 04:43:16 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/logicmystery/public_html/exam/lib/class_db.php on line 423
+[15-Dec-2015 04:43:16 Etc/GMT] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/logicmystery/public_html/exam/lib/class_db.php on line 424
+[15-Dec-2015 04:43:16 Etc/GMT] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home/logicmystery/public_html/exam/lib/class_db.php on line 441

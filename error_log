@@ -1,0 +1,12 @@
+[08-Jul-2016 03:53:37 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[01-Aug-2016 05:31:52 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[24-Aug-2016 09:19:39 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/logicmystery/public_html/wp-includes/load.php on line 200
+[24-Aug-2016 09:19:40 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/logicmystery/public_html/wp-includes/load.php on line 200
+[05-Nov-2016 12:59:41 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[22-Nov-2016 22:13:05 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[01-Feb-2017 12:21:17 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[25-Feb-2017 03:54:23 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[28-Feb-2017 04:00:14 UTC] WordPress database error Lost connection to MySQL server during query for query INSERT INTO `logic_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_doing_cron', '1488254412.9696569442749023437500', 'yes') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by require('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_cron, spawn_cron, set_transient, add_option
+[29-Mar-2017 23:13:03 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[02-Apr-2017 18:06:01 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[03-May-2017 00:02:32 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/logicmystery/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
